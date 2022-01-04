@@ -1,0 +1,12 @@
+# Plot window
+RE_START = -0.56671
+RE_END = -0.16671
+IM_START = 0.53432
+IM_END = 0.93432
+
+BASE
+# Plot window
+RE_START = -2
+RE_END = 1
+IM_START = -1
+IM_END = 1
